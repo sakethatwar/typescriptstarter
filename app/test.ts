@@ -1,0 +1,1 @@
+var typescriptStarter: string = "BAREBONES.... YO";

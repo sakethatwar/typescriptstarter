@@ -1,0 +1,27 @@
+{
+  "name": "typescriptstarter",
+  "version": "1.0.0",
+  "description": "simple gulp typescript sublime setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sakethatwar/typescriptstarter.git"
+  },
+  "keywords": [
+    "npm",
+    "gulp"
+  ],
+  "author": "SaKet Hatwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakethatwar/typescriptstarter/issues"
+  },
+  "homepage": "https://github.com/sakethatwar/typescriptstarter#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.9.2"
+  }
+}
